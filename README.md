@@ -1,4 +1,4 @@
 # Arithmetic-Practice-Android-App
 Hello feel free to download my first app and try it in android studio or android studio.
-Link to app in android play store:
+Link to app in android play store:\n
 https://play.google.com/store/apps/details?id=com.math.integeradditionsubtractionandmultiplicationpractice
