@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Integer Addition, Subtraction, and Multiplication Practice</string>
+    <string name="to_begin_click_me">To Begin. Click Me!</string>
+    <string name="integer_narithmetic_practice_program">Integer \nArithmetic Practice Program</string>
+    <string name="welcome_nin_this_window_nplease_input_the_range_of_numbers_nand_nselect_the_operation_n_to_improve_in">Welcome!\nIn this window\nplease input the range of numbers \nand\nselect the operation \n to improve in!</string>
+    <string name="count">Count: 0</string>
+    <string-array name="names" >
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+    </string-array>
+</resources>
